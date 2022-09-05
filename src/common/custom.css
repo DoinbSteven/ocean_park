@@ -1,0 +1,42 @@
+/* @import '~antd/dist/antd.css'; */
+/*自定义字体*/
+@font-face {
+    font-family: 'Book';
+    src: url('../assets/fonts/Gotham-Book.otf') format('truetype');
+    font-style: normal;
+}
+@font-face {
+  font-family: 'Medium';
+  src: url('../assets/fonts/Gotham-Medium.otf') format('truetype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Regular';
+  src: url('../assets/fonts/BalooBhaijaan-Regular.ttf') format('truetype');
+  font-style: normal;
+}
+
+/* html,body {
+   font-family: "Medium";
+} */
+
+/* antdesign 样式修改 */
+/* .ant-btn-primary{
+    background:#4022F3;
+    border-color:#4022F3;
+} */
+
+ /* .ant-btn-primary:hover, .ant-btn-primary:focus {
+     opacity: 0.8;
+     background:#4022F3;
+     border-color:#4022F3;
+ } */
+/* .ant-btn {
+    border-radius: 5px;
+} */
+
+/*modal*/
+/* [data-reach-dialog-content] {
+    border-radius: 20px;
+    overflow: hidden;
+} */
